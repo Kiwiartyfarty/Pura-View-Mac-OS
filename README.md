@@ -8,4 +8,5 @@ Download the (Pura View X 4Mac.dmg)
 
 
 
-
+V1.1 Ive added the ability to copy data of iphone in monthly groups
+<img width="1428" height="1192" alt="Screenshot 2026-11-10 at 9 31 36 AM" src="https://github.com/user-attachments/assets/6303c641-361c-4f18-9554-0b6c9e5f4dc9" />
